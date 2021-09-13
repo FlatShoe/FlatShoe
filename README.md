@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 FlatShoe
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My Teck Stack
 
 <div>
   <img width="64px" height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
