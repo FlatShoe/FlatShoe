@@ -5,8 +5,6 @@
 <div>
   <img width="64px" height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
   <img width="64px" height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-  <img width="64px" height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-  <img width="64px" height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
   <img width="64px" height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
   <img width="64px" height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
   <img width="64px" height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
