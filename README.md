@@ -10,7 +10,6 @@
   <img width="64px" height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
   <img width="64px" height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
   <img width="64px" height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-  <img width="64px" height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
 </div>
 
 ## Some Statistics About Me
